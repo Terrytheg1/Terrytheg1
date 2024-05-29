@@ -1,6 +1,6 @@
 164.127.226.68 // my pc
 154.127.54.188 // boosted weapon
 5.42.211.9 // Fancy Melkart
-217.146.80.186 // Utopia DayZ
+185.38.150.54 // Utopia DayZ
 185.150.189.205 // OPM 
 43.240.73.50 // Mister
