@@ -1,0 +1,13 @@
+modded class BM_CodeLock extends ItemBase
+{
+    protected const string BM_CODELOCK_NUMBER_00 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_01 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_02 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_03 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_04 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_05 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_06 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_07 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_08 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+    protected const string BM_CODELOCK_NUMBER_09 = "BM_CodeLock_Client\\Model\\data\\Numbers\\BM_Number_Incognito.paa";
+}
